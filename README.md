@@ -61,10 +61,8 @@ Welcome to the **FastAPI & Pydantic Practices** repository! This project serves 
 >> 
 >> ---
 >> 
->> ## ?? Live API Testing Dashboard
+>> ##  Live API Testing Dashboard
 >> 
 >> FastAPI auto-generates highly functional user dashboards to run testing operations instantly without installing external tools like Postman. Launch your local instance and navigate to:
 >> 
->> - **Interactive Swagger UI Documentations:** ?? [http://127.0.0](http://127.0.0)
->> - **Alternative Redoc Manual Layouts:** ?? [http://127.0.0](http://127.0.0)
->> 
+>> ## Author:- NARENDRA SINGH
